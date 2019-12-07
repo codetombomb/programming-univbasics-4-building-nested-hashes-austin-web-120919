@@ -32,6 +32,7 @@ monopoly =  {
       }
     }
   }
+  binding.pry
 }
 
-binding.pry
+
